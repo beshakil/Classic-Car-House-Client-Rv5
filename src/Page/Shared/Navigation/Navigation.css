@@ -1,0 +1,10 @@
+.btnHover button{
+    background-color: #062046;
+    color: white;
+    font-size: 20px;
+
+}
+.btnHover:hover button{
+    background-color: #F92D3C;
+    color: white;
+}
